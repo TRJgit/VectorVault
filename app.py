@@ -4,7 +4,7 @@ st.set_page_config(page_title="Local RAG Chat")
 
 chat_page = st.Page(
     "pages/chat.py", 
-    title="Local Rag Chatbot",  
+    title="VectorVault",  
     default=True
 )
 settings_page = st.Page(

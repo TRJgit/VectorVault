@@ -1,4 +1,4 @@
-# Local RAG Chat
+# VectorVault: Local RAG Chat
 
 A RAG-based chatbot using Ollama models with Chroma DB for vector database and Document Reranking for local on-device LLM inference.
 
